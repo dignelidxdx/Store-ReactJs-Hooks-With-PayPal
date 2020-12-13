@@ -20,6 +20,7 @@
     "url": "https://github.com/dignelidxdx/Store-ReactJs-Hooks-With-PayPal/issues"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.2.0"
